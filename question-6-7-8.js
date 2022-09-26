@@ -5,7 +5,7 @@ let dictionary = [
                 "water", "window", "xylophone", "yawl",
                 "yello", "zebra"
             ];
-
+            
 //❓❓ LAB QUESTION 8:
 //Search the array of words in the haystack parameter for the
 //word given in the needle parameter (get it? Searching for a needle in
